@@ -7,4 +7,4 @@ Young: https://github.com/BieniekDesign
 
 ![alt text](https://i.imgur.com/7quHoEV.png)
 
-![alt text](https://i.imgur.com/a/3Zvox9p.png)
+![alt text](https://i.imgur.com/mxJ9QDp.png)
