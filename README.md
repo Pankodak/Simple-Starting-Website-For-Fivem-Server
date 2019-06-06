@@ -6,7 +6,6 @@ Me
 
 Smerfik: https://github.com/smerfik22
 
-
 Young: https://github.com/BieniekDesign
 
 ![alt text](https://i.imgur.com/7quHoEV.png)
