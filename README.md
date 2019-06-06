@@ -1,5 +1,6 @@
 # Simple-Starting-Website-For-Fivem-Server
-Simple website made for fivem server by
+Simple website made for fivem server by:
+
 Me
 
 
