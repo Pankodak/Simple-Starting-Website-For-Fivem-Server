@@ -1,9 +1,7 @@
 # Simple-Starting-Website-For-Fivem-Server
 Simple website made for fivem server by
 
-
 Me
-
 
 Smerfik: https://github.com/smerfik22
 
