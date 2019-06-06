@@ -10,6 +10,8 @@ Smerfik: https://github.com/smerfik22
 
 Young: https://github.com/BieniekDesign
 
+Katysz (designer): katysz#0053
+
 ![alt text](https://i.imgur.com/7quHoEV.png)
 
 ![alt text](https://i.imgur.com/ti7VPjj.png)
