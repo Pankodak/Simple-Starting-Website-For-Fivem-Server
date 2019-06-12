@@ -43,7 +43,7 @@ function copyStringToClipboard(str) {
   el.select();
   document.execCommand('copy');
   document.body.removeChild(el);
-  confirm("Eldorado jak robiliśmy kurwie dzwignie nogami na szyji");
+  confirm("Skopiowano!");
 }
 
 
